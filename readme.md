@@ -45,4 +45,5 @@ For best results, the case should be FDM printed as separate top and bottom halv
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-front.jpg)
 
 ## Credits
+Valaadus on Discord for inspiring the thermal accent around the USB port and color accents, and for working through printing gremlins.
 40% Discord community for being an incredible group of helpful people and an invaluable resource in learning to do this design work.
