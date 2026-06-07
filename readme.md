@@ -2,7 +2,7 @@
 
 The Sneed SN47 is a retro-styled 3D-printed case for the Inland MK47, inspired by vintage Cherry and IBM keyboards. It is directly compatible with the MK47 plate and PCB assembly and reuses the original self-tapping mounting screws.
 
-The latest version of the case adds 2.5 mm of height above the plate. This should better conceal switches and allow the bottom edge of the keycaps to sit more flush with, or slightly below, the top surface. This revision has not been physically tested, so use it at your own risk. No interference or fitment issues are expected.
+The latest version of the case adds 2.5 mm of height above the plate. This should better conceal switches and allow the bottom edge of the keycaps to sit more flush to, or slightly below, the top surface. This revision has not been physically tested, so use it at your own risk. No interference or fitment issues are expected.
 
 ## Case Files
 
@@ -38,7 +38,7 @@ For best results, the case should be FDM printed as separate top and bottom halv
 5. Place the MK47 assembly into the SN47 case. Press it firmly into position until fully seated. Reinstall the six self-tapping plate screws to secure the plate to the case.
 
 ## Images
-> These images depict the case before adjustments were made to add height above the plate. The current version should sit about flush with the bottom of the keycaps.
+> These images depict the case before adjustments were made to add height above the plate. The current version should sit about flush with to bottom of the keycaps.
 
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-corner.jpg)
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-back.jpg)
