@@ -28,9 +28,17 @@ For best results, the case should be printed as separate top and bottom halves.
 1. Install the M2 heat-set inserts into the pilot holes in the bottom half of the case. The inserts should sit flush with or slightly below the mating surface.
 
 2. If using weights, place them in the rectangular recesses in the bottom half. Adhering them in place is recommended to prevent shifting or rattling during use.
+![bottom assembly](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/bott-build.jpg)
 
 3. Align the top and bottom halves and loosely install the center M2x5 screw. Install the remaining four screws, then fully tighten all five once they are in place.
+![top assembly](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/top-build.jpg)
 
 4. If you have not already done so, remove the plate/PCB assembly from your MK47 and retain the six self-tapping plate screws. Only these six screws need to be removed. Leave the screw securing the PCB to the plate installed and keep the assembly intact.
 
 5. Place the MK47 assembly into the SN47 case. Press it firmly into position until fully seated. Reinstall the six self-tapping plate screws to secure the plate to the case.
+
+## Images
+> These images depict the case before adjustments were made to add height above the plate. The current version should sit about flush with the bottom of the keycaps.
+![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-corner.jpg)
+![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-back.jpg)
+![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-front.jpg)
