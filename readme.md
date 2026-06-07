@@ -15,9 +15,9 @@ For best results, the case should be FDM printed as separate top and bottom halv
 
 | Part | Spec | Qty | Note |
 | --- | --- | --- | --- |
-| Case screw | M2-0.4x5 mm | 5 | *Flat head recommended. Socket-head screws may clear the PCB, but this has not been tested.* |
-| Heat-set insert | M2x4x3.2 mm | 5 | |
-| Case weight (optional) | 1/4 oz low profile | 14 | *16 mm × 19 mm × 3 mm; CK Auto PN# CKsafeAWW005Black01* |
+| Case screws | M2-0.4x5 mm | 5 | *Flat head recommended. Socket-head screws may clear the PCB, but this has not been tested.* |
+| Heat-set inserts | M2x4x3.2 mm | 5 | |
+| Case weights (optional) | 1/4 oz low profile | 14 | *16 mm × 19 mm × 3 mm; CK Auto PN# CKsafeAWW005Black01* |
 | Plate screws | *See note* | 6 | *Reuse from MK47* |
 | Feet/bumpons | 8 mm diameter | 4 | *Self-adhesive cabinet/furniture bumper pads* |
 
