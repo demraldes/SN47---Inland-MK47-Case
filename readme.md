@@ -6,7 +6,7 @@ The latest version of the case adds 2.5 mm of height above the plate. This shoul
 
 ## Case Files
 
-For best results, the case should be printed as separate top and bottom halves.
+For best results, the case should be FDM printed as separate top and bottom halves.
 
 [Case files](https://github.com/demraldes/SN47---Inland-MK47-Case/tree/main/case) are located in this repository. A separate collection of [individual parts](https://github.com/demraldes/SN47---Inland-MK47-Case/tree/main/case/separated%20parts) is also included for duo-tone accents or bottom lettering. For these versions, load the components for each half as a single multi-part object.
 
@@ -42,3 +42,6 @@ For best results, the case should be printed as separate top and bottom halves.
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-corner.jpg)
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-back.jpg)
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-front.jpg)
+
+## Credits
+40% Discord community for being an incredible group of helpful people and an invaluable resource in learning to do this design work.
