@@ -46,4 +46,5 @@ For best results, the case should be FDM printed as separate top and bottom halv
 
 ## Credits
 Valaadus on Discord for inspiring the thermal accent around the USB port and color accents, and for working through printing gremlins.
-40% Discord community for being an incredible group of helpful people and an invaluable resource in learning to do this design work.
+
+The 40% Discord community for being an incredible group of helpful people and an invaluable resource in learning to do this design work.
