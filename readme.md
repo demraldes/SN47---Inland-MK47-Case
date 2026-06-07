@@ -23,14 +23,14 @@ For best results, the case should be printed as separate top and bottom halves.
 
 ### Assembly
 
-> The plate screws may feel loose when threading into the mounting bosses. In testing, this has not affected retention of the board assembly. If necessary, a small amount of PTFE (Teflon) tape can help tighten particularly loose screws.
+> The plate screws may not feel like they are well-threaded in the mounting bosses. If necessary, a small amount of PTFE tape can help tighten particularly loose screws, though in testing it has not been an issue.
 
 1. Install the M2 heat-set inserts into the pilot holes in the bottom half of the case. The inserts should sit flush with or slightly below the mating surface.
 
 2. If using weights, place them in the rectangular recesses in the bottom half. Adhering them in place is recommended to prevent shifting or rattling during use.
 ![bottom assembly](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/bott-build.jpg)
 
-3. Align the top and bottom halves and loosely install the center M2x5 screw. Install the remaining four screws, then fully tighten all five once they are in place.
+3. Align the top and bottom halves and loosely install the center M2x5 screw. Install the remaining four screws, then fully tighten all five once they are in place. If using weights, the adhesive pads will need to compress slightly while tightening.
 ![top assembly](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/top-build.jpg)
 
 4. If you have not already done so, remove the plate/PCB assembly from your MK47 and retain the six self-tapping plate screws. Only these six screws need to be removed. Leave the screw securing the PCB to the plate installed and keep the assembly intact.
