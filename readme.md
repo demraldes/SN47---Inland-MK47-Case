@@ -39,6 +39,7 @@ For best results, the case should be FDM printed as separate top and bottom halv
 
 ## Images
 > These images depict the case before adjustments were made to add height above the plate. The current version should sit about flush with the bottom of the keycaps.
+
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-corner.jpg)
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-back.jpg)
 ![case image](https://raw.githubusercontent.com/demraldes/SN47---Inland-MK47-Case/refs/heads/main/images/final-front.jpg)
