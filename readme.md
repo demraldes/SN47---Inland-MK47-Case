@@ -8,7 +8,7 @@ The latest version of the case adds 2.5 mm of height above the plate. This shoul
 
 For best results, the case should be printed as separate top and bottom halves.
 
-[Case files]() are located in this repository. A separate collection of [individual parts]() is also included for duo-tone accents or bottom lettering. For these versions, load the components for each half as a single multi-part object.
+[Case files](https://github.com/demraldes/SN47---Inland-MK47-Case/tree/main/case) are located in this repository. A separate collection of [individual parts](https://github.com/demraldes/SN47---Inland-MK47-Case/tree/main/case/separated%20parts) is also included for duo-tone accents or bottom lettering. For these versions, load the components for each half as a single multi-part object.
 
 ## Bill of Materials and Assembly
 ### BOM
